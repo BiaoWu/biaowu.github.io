@@ -9,6 +9,7 @@ title: Bill
 description: > # Carry My Soul
 url: "https://biaowu.github.io"
 
+exclude: ['deploy_website.sh']
 
 # ----- 不变的 -------
 
