@@ -7,15 +7,33 @@
 
 title: Bill
 description: > # Carry My Soul
+baseurl: ""
 url: "https://biaowu.github.io"
 
 exclude: ['deploy_website.sh']
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
 
 # ----- 不变的 -------
 
 # Site settings
 email: biaoliu_2007@163.com
-github_username:  BiaoWu
+
+# Social account
+author: BiaoWu
+github: BiaoWu
+
+# avatar and Favicon
+avatar: "/assets/img/my_avatar.jpg"
+favicon: ""
 
 # Build settings
+permalink: /:year/:month/:day/:title.html
 markdown: kramdown
+highlighter: rouge
+mathjax: disabled
+sass:
+  style: compressed
