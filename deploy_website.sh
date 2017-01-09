@@ -28,6 +28,7 @@ rm -rf .sass-cache
 rm -rf .jekyll-metadata
 
 # Stage all files in git and create a commit
+git add -f assets/icon
 git add .
 git add -u
 git commit -m "Website at $(date)"
