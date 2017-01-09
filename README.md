@@ -1,6 +1,4 @@
-## Bill‘s Blog
-
-地址：[Bill](https://biaowu.github.io)
+## [Bill‘s Blog](https://biaowu.github.io)
 
 
 ## 感谢
