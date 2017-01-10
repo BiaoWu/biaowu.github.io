@@ -30,6 +30,11 @@ github: BiaoWu
 avatar: "/assets/img/my_avatar.jpg"
 favicon: ""
 
+# google analytics config
+ga:
+  id: UA-90096123-1
+  url: auto
+
 # Build settings
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
